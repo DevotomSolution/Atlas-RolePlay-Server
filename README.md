@@ -1,6 +1,4 @@
 <div align="center">
-  <img height="200" src="src/banner.png"  />
-</div>
 
 ###
 
